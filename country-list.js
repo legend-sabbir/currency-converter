@@ -155,7 +155,7 @@ let country_list = {
     "VND" : "VN",
     "VUV" : "VU",
     "YER" : "YE",
-    "ZAR" : "ZA",
-    "ZMK" : "ZM",
-    "ZWD" : "ZW"
+    "ZAR" : "ZA"
+
+
 }
